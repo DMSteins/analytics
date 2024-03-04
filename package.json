@@ -36,10 +36,10 @@
     "name": "qjp88995",
     "email": "759848795@qq.com"
   },
-  "contributes": [{
+  "contributes": {
     "name": "dmsteins",
     "email": "dmhongcode@gmail.com"
-  }],
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/DMSteins/analytics.git"
