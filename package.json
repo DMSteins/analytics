@@ -40,6 +40,10 @@
     "name": "dmsteins",
     "email": "dmhongcode@gmail.com"
   }],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DMSteins/analytics.git"
+  },
   "module": "dist/th-analytics.esm.js",
   "size-limit": [
     {
