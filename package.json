@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "0.1.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -33,12 +33,12 @@
   },
   "name": "th-analytics",
   "authors": {
-    "name": "qjp88995",
-    "email": "759848795@qq.com"
-  },
-  "contributes": {
     "name": "dmsteins",
     "email": "dmhongcode@gmail.com"
+  },
+  "contributes": {
+    "name": "qjp88995",
+    "email": "759848795@qq.com"
   },
   "repository": {
     "type": "git",
@@ -54,8 +54,8 @@
       "path": "dist/th-analytics.esm.js",
       "limit": "10 KB"
     }
-  ],
-  "devDependencies": {
+  ],  
+  "dependencies": {
     "@size-limit/preset-small-lib": "^8.2.6",
     "husky": "^8.0.3",
     "size-limit": "^8.2.6",
